@@ -1,0 +1,21 @@
+
+main {
+    background-color: greenyellow;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
+
+li {
+    margin: 10px;
+}
+
